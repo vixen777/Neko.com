@@ -1,0 +1,39 @@
+body{
+  background-image: url(fav.jpg);
+  background-repeat: none;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.header1{
+  color: aliceblue;
+  text-align: center;
+  font-family:"Pixelify Sans", sans-serif;
+}
+
+.h2 {
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-family:"Jersey 20", sans-serif;
+
+  
+}
+
+
+.parag {
+  color: aliceblue;
+  background-color: rgb(75, 130, 179);
+  border-radius: 20px;
+  border-width: 0px;
+  font-family: "Jersey 20", sans-serif;
+  text-align: left;
+  margin-left: 30px;
+  font-size: large;
+  box-shadow: 10px 9px rgb(44, 82, 116);
+  padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+
+}

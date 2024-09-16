@@ -1,0 +1,82 @@
+body{
+  background-image: url(ghibli.jpg);
+  background-repeat: none;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.header {
+  color: aliceblue;
+  text-align: center;
+  font-family: calc();
+  font-size: 20px;
+  font-family: "Pixelify Sans", sans-serif;
+}
+
+.parag { 
+  color: aliceblue;
+  text-align: center;
+  font-family: calc();
+  font-size: 20px;
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
+  text-indent: 0cap;
+  
+
+  
+  
+}
+
+.gift-container {
+  color: rgb(249, 246, 248);
+  background: rgb(53, 169, 78);
+  margin-left: 350px;
+  height: 36px;
+  width: 140px;
+  border-radius: 30px;
+  border-width: 0px;
+  border-style: solid;
+  box-shadow: 9px 8px rgba(18, 2, 11, 0.45);
+transition: 0.5s;
+  cursor: pointer;
+  font-family: "Pixelify Sans", sans-serif;
+  
+  
+}
+
+.gift-container:hover{
+  background-color: rgb(220, 125, 194);
+  color: aliceblue;
+}
+
+.gift-container:active{
+  opacity: 0.3;
+  
+  
+
+}
+
+.verses-container {
+  color: rgb(249, 246, 248);
+  background: rgb(53, 169, 78);
+  margin-left: 500px;
+  height: 36px;
+  width: 140px;
+  border-radius: 30px;
+  border-width: 0px;
+  border-style: solid;
+  box-shadow: 9px 8px rgba(18, 2, 11, 0.45);
+transition: 0.5s;
+  cursor: pointer;
+  font-family: "Pixelify Sans", sans-serif;
+}
+
+.verses-container:hover {
+  background-color: rgb(92, 149, 247);
+  color: aliceblue;
+}
+.verses-container:active{
+  opacity: 0.3;
+}
